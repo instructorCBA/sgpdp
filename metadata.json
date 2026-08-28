@@ -1,0 +1,6 @@
+{
+  "name": "SENA SGPDP - Debido Proceso del Aprendiz",
+  "description": "Sistema de Gestión de Rutas del Aprendiz y Debido Proceso Institucional bajo el Acuerdo 0009 de 2024 del SENA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
